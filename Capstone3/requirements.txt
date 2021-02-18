@@ -47,7 +47,7 @@ nbconvert @ file:///C:/ci/nbconvert_1601896775581/work
 nbformat @ file:///tmp/build/80754af9/nbformat_1610738111109/work
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1606153767164/work
 noaa-sdk==0.1.19
-notebook==5.3.1
+notebook==6.1.5
 numpy==1.20.1
 olefile==0.46
 packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
