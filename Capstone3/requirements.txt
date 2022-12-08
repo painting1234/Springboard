@@ -3,7 +3,7 @@ attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
 brotlipy==0.7.0
-certifi==2020.12.5
+certifi==2022.12.7
 cffi @ file:///C:/ci/cffi_1613247269562/work
 chardet @ file:///C:/ci/chardet_1607706912142/work
 chart-studio==1.1.0
